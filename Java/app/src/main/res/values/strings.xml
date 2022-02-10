@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+</resources>
